@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/R-LOGIXX/AndroidStudioProjects/slider_with_description/app/src/main/res/drawable/dotshape.xml" value="0.1125" />
+        <entry key="..\:/Users/R-LOGIXX/AndroidStudioProjects/slider_with_description/app/src/main/res/drawable/non_activedot.xml" value="0.1" />
+        <entry key="..\:/Users/R-LOGIXX/AndroidStudioProjects/slider_with_description/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/R-LOGIXX/AndroidStudioProjects/slider_with_description/app/src/main/res/layout/cutome.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
